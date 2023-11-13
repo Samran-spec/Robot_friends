@@ -1,0 +1,17 @@
+.card{
+    float: left;
+}
+.card-content{
+    background-color: lightgreen;
+    border-radius: 5px;
+    padding: 5px;
+    width: 300px;
+    margin: 10px;
+    
+}
+.card:hover{
+    box-shadow: 5px 10px gray;
+    background-color: darkcyan;
+    cursor: pointer;
+    transition: scale(.1);
+}   
