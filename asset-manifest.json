@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/robot_friends/static/css/main.ec8a24c6.css",
+    "main.js": "/robot_friends/static/js/main.07d695b6.js",
+    "static/js/787.7cf47178.chunk.js": "/robot_friends/static/js/787.7cf47178.chunk.js",
+    "index.html": "/robot_friends/index.html",
+    "main.ec8a24c6.css.map": "/robot_friends/static/css/main.ec8a24c6.css.map",
+    "main.07d695b6.js.map": "/robot_friends/static/js/main.07d695b6.js.map",
+    "787.7cf47178.chunk.js.map": "/robot_friends/static/js/787.7cf47178.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ec8a24c6.css",
+    "static/js/main.07d695b6.js"
+  ]
+}
